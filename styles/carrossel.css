@@ -81,3 +81,15 @@
     padding: 0.5em 0;
 }
 
+@media screen and (min-width: 1024px) {
+    .carrossel__titulo {
+        font-size: 26px;
+    }
+
+    .swiper-pagination {
+        
+    }
+
+
+    
+}

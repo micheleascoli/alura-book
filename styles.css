@@ -12,6 +12,8 @@
     --azul: #002F52;
     --azul-degrade: linear-gradient(160deg, #002F52 0%, #326589 100%);
     --preto: #000000;
+    --cinza-primario: #858585;
+    --cinza-secundario: #474646;
 
     --font-princial: "Poppins";
     --font-secundaria: "Josefin Sans";

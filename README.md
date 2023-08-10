@@ -2,7 +2,7 @@
 
 # Bem-vindo ao repositório AluraBooks!
 
-Este repositório foi criado para o curso de HTML e CSS, com o objetivo de ensinar técnicas fundamentais para a criação de sites utilizando a responsividade mobile first.
+Este repositório foi criado para o curso de HTML e CSS, com o objetivo de aprender técnicas fundamentais para a criação de sites utilizando a responsividade mobile first.
 
 
 ## Tópicos de aprendizagem incluem:
